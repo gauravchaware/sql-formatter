@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gauravchaware.github.io/sql-formatter/sitemap.xml
